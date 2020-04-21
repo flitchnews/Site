@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-21T16:02:30+02:00</updated><id>/feed.xml</id><title type="html">Flitch News</title><subtitle>Actus &amp; perles cachées du web</subtitle><entry><title type="html">Deals: Les jeux et DLCs récupérables gratuitement</title><link href="/jeux-gratuits-jour-1/" rel="alternate" type="text/html" title="Deals: Les jeux et DLCs récupérables gratuitement" /><published>2020-04-21T00:00:00+02:00</published><updated>2020-04-21T00:00:00+02:00</updated><id>/jeux-gratuits-jour-1</id><content type="html" xml:base="/jeux-gratuits-jour-1/">&lt;p&gt;Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-21T19:48:32+02:00</updated><id>/feed.xml</id><title type="html">Flitch News</title><subtitle>Actus &amp; perles cachées du web</subtitle><entry><title type="html">Far Cry &amp;amp; Assasin’s Creed disponibles sur Geforce Now</title><link href="/far-cry-assasins-creed-geforce-now/" rel="alternate" type="text/html" title="Far Cry &amp; Assasin's Creed disponibles sur Geforce Now" /><published>2020-04-21T00:00:00+02:00</published><updated>2020-04-21T00:00:00+02:00</updated><id>/far-cry-assasins-creed-geforce-now</id><content type="html" xml:base="/far-cry-assasins-creed-geforce-now/">&lt;p&gt;Ubisoft et Nvidia se rapprochent de plus en plus, permettant dès aujourd’hui aux titres suivants d’être jouable sur la plateforme de cloud-gaming Geforce Now:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Assassin’s Creed Rogue (Uplay &amp;amp; Steam)&lt;/li&gt;
+  &lt;li&gt;Assassin’s Creed: Revelations (Steam)&lt;/li&gt;
+  &lt;li&gt;Assassin’s Creed II Deluxe Edition (Steam)&lt;/li&gt;
+  &lt;li&gt;Assassin’s Creed: Director’s Cut Edition (Uplay &amp;amp; Steam)&lt;/li&gt;
+  &lt;li&gt;Far Cry (Uplay &amp;amp; Steam)&lt;/li&gt;
+  &lt;li&gt;Far Cry 2: Fortune’s Edition (Uplay &amp;amp; Steam)&lt;/li&gt;
+  &lt;li&gt;Far Cry 3 (Uplay &amp;amp; Steam)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vous ne connaissez pas encore Geforce Now ? Passez donc par &lt;a href=&quot;https://www.nvidia.com/en-eu/geforce-now/&quot;&gt;leur site internet&lt;/a&gt; !&lt;/p&gt;</content><author><name>edgar</name></author><category term="GeforceNow" /><category term="nvidia" /><category term="librairie" /><summary type="html">Ubisoft et Nvidia se rapprochent de plus en plus, permettant dès aujourd’hui aux titres suivants d’être jouable sur la plateforme de cloud-gaming Geforce Now:</summary></entry><entry><title type="html">Valorant: Impossible d’y jouer sur Shadow PC ni sur Geforce Now</title><link href="/valorant-indisponible-shadow-geforce/" rel="alternate" type="text/html" title="Valorant: Impossible d'y jouer sur Shadow PC ni sur Geforce Now" /><published>2020-04-21T00:00:00+02:00</published><updated>2020-04-21T00:00:00+02:00</updated><id>/valorant-indisponible-shadow-geforce</id><content type="html" xml:base="/valorant-indisponible-shadow-geforce/">&lt;p&gt;C’est le jeu du moment, les utilisateurs de Twitch ne peuvent pas le manquer: &lt;a href=&quot;https://beta.playvalorant.com/&quot;&gt;Valorant&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Le CS:GO like version Riot a su créé la hype en distribuant au compte-goute des clés Beta. Nombreux sont ceux qui souhaitent y jouer en cette période de confinement.&lt;/p&gt;
+
+&lt;h1 id=&quot;pas-de-valorant-sur-le-pc-du-futur&quot;&gt;Pas de Valorant sur le PC du futur&lt;/h1&gt;
+&lt;p&gt;Malheureusement, les utilisateurs de Shadow, la start-up française qui offre du cloud computing (et non “gaming”, comme elle aime le rappeler), ne peuvent pas installer Valorant sur leurs PC…&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;picture&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/webp/shadowpc14.webp&quot; type=&quot;image/webp&quot; /&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/jpg/shadowpc14.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
+        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/shadowpc14.jpg&quot; alt=&quot;Valorant: Impossible d'y jouer sur Shadow PC ni sur Geforce Now&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Selon Shadow, le problème serait dû au système d’anti-cheat de Riot. Shadow assure cependant qu’il discute avec Riot afin que ses clients puissent accéder à ce jeu rapidement. Espérons que le PC du futur puisse faire tourner Valorant bientôt !&lt;/p&gt;
+
+&lt;h1 id=&quot;et-sur-geforce-now-&quot;&gt;Et sur Geforce Now ?&lt;/h1&gt;
+&lt;p&gt;L’impatience des utilisateurs de Geforce Now est moins grande: Nvidia a comme politique d’ajouter uniquement des jeux en version finale. Et les utilisateurs le savent. Il est donc probable que Valorant sera disponible sur Geforce Now dans la semaine qui suivra sa sortie officielle.&lt;/p&gt;</content><author><name>edgar</name></author><category term="Shadow" /><category term="Blade" /><category term="Valorant" /><category term="GeforceNow" /><category term="Nvidia" /><category term="malaise" /><summary type="html">C’est le jeu du moment, les utilisateurs de Twitch ne peuvent pas le manquer: Valorant.</summary></entry><entry><title type="html">Deals: Les jeux et DLCs récupérables gratuitement</title><link href="/jeux-gratuits-jour-1/" rel="alternate" type="text/html" title="Deals: Les jeux et DLCs récupérables gratuitement" /><published>2020-04-21T00:00:00+02:00</published><updated>2020-04-21T00:00:00+02:00</updated><id>/jeux-gratuits-jour-1</id><content type="html" xml:base="/jeux-gratuits-jour-1/">&lt;p&gt;Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.&lt;/p&gt;
 
 &lt;h1 id=&quot;jeux-gratuits-temporairement&quot;&gt;Jeux gratuits temporairement&lt;/h1&gt;
 
@@ -26,25 +56,7 @@
         &lt;source srcset=&quot;https://img1.flitch.news/jpg/deal1.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
         &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/deal1.jpg&quot; alt=&quot;Deals: Les jeux et DLCs récupérables gratuitement&quot; /&gt;
     &lt;/picture&gt;
-&lt;/p&gt;</content><author><name>edgar</name></author><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.</summary></entry><entry><title type="html">Valorant: Impossible d’y jouer sur Shadow PC ni sur Geforce Now</title><link href="/valorant-indisponible-shadow-geforce/" rel="alternate" type="text/html" title="Valorant: Impossible d'y jouer sur Shadow PC ni sur Geforce Now" /><published>2020-04-21T00:00:00+02:00</published><updated>2020-04-21T00:00:00+02:00</updated><id>/valorant-indisponible-shadow-geforce</id><content type="html" xml:base="/valorant-indisponible-shadow-geforce/">&lt;p&gt;C’est le jeu du moment, les utilisateurs de Twitch ne peuvent pas le manquer: &lt;a href=&quot;https://beta.playvalorant.com/&quot;&gt;Valorant&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Le CS:GO like version Riot a su créé la hype en distribuant au compte-goute des clés Beta. Nombreux sont ceux qui souhaitent y jouer en cette période de confinement.&lt;/p&gt;
-
-&lt;h1 id=&quot;pas-de-valorant-sur-le-pc-du-futur&quot;&gt;Pas de Valorant sur le PC du futur&lt;/h1&gt;
-&lt;p&gt;Malheureusement, les utilisateurs de Shadow, la start-up française qui offre du cloud computing (et non “gaming”, comme elle aime le rappeler), ne peuvent pas installer Valorant sur leurs PC…&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/shadowpc14.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/shadowpc14.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/shadowpc14.jpg&quot; alt=&quot;Valorant: Impossible d'y jouer sur Shadow PC ni sur Geforce Now&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Selon Shadow, le problème serait dû au système d’anti-cheat de Riot. Shadow assure cependant qu’il discute avec Riot afin que ses clients puissent accéder à ce jeu rapidement. Espérons que le PC du futur puisse faire tourner Valorant bientôt !&lt;/p&gt;
-
-&lt;h1 id=&quot;et-sur-geforce-now-&quot;&gt;Et sur Geforce Now ?&lt;/h1&gt;
-&lt;p&gt;L’impatience des utilisateurs de Geforce Now est moins grande: Nvidia a comme politique d’ajouter uniquement des jeux en version finale. Et les utilisateurs le savent. Il est donc probable que Valorant sera disponible sur Geforce Now dans la semaine qui suivra sa sortie officielle.&lt;/p&gt;</content><author><name>edgar</name></author><category term="Shadow" /><category term="Blade" /><category term="Valorant" /><category term="GeforceNow" /><category term="Nvidia" /><category term="malaise" /><summary type="html">C’est le jeu du moment, les utilisateurs de Twitch ne peuvent pas le manquer: Valorant.</summary></entry><entry><title type="html">On a adoré ce Community Trailer pour Deep Rock Galactic</title><link href="/community-trailer-deep-rock-galactic-1/" rel="alternate" type="text/html" title="On a adoré ce Community Trailer pour Deep Rock Galactic" /><published>2020-04-20T00:00:00+02:00</published><updated>2020-04-20T00:00:00+02:00</updated><id>/community-trailer-deep-rock-galactic-1</id><content type="html" xml:base="/community-trailer-deep-rock-galactic-1/">&lt;p&gt;Afin de préparer la sortie officielle du jeu, les développeurs de Deep Rock Galactic ont lancé un grand concours: Celui du meilleur trailer !
+&lt;/p&gt;</content><author><name>edgar</name></author><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.</summary></entry><entry><title type="html">On a adoré ce Community Trailer pour Deep Rock Galactic</title><link href="/community-trailer-deep-rock-galactic-1/" rel="alternate" type="text/html" title="On a adoré ce Community Trailer pour Deep Rock Galactic" /><published>2020-04-20T00:00:00+02:00</published><updated>2020-04-20T00:00:00+02:00</updated><id>/community-trailer-deep-rock-galactic-1</id><content type="html" xml:base="/community-trailer-deep-rock-galactic-1/">&lt;p&gt;Afin de préparer la sortie officielle du jeu, les développeurs de Deep Rock Galactic ont lancé un grand concours: Celui du meilleur trailer !
 Chaque semaine, une dizaine de nouveaux trailers fleurissent sur le web. Et nous voulions vous partager celui-ci, que nous avons beaucoup apprécié pour sa sobriété et son efficacité:&lt;/p&gt;
 
 &lt;iframe class=&quot;embed-youtube&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/ptZmqpPtO9c&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
@@ -198,44 +210,4 @@ Ainsi, dès aujourd’hui, les titres suivants ne sont plus accessibles sur Gefo
   &lt;p&gt;“Les compensations impliquent un coût, donc pas pour l’instant” - Victor, employé de Shadow&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;En bref, cette semaine, Shadow a perdu la confiance de beaucoup de ses clients. Certains vont attendre patiemment, certains vont se plaindre - Ce que je vous déconseille, depuis l’e-mail d’hier, les esprits échauffés des &lt;a href=&quot;https://flitch.news/shadow-support-precommandes-problemes/&quot;&gt;modérateurs Discord bannissent facilement&lt;/a&gt; -, d’autres encore vont résilier. Espérons seulement que Shadow puisse redresser la barre à temps et revenir dans la course face à ses concurrents !&lt;/p&gt;</content><author><name>edgar</name></author><category term="sticky" /><category term="Shadow" /><category term="précommandes" /><category term="mensonges" /><category term="malaise" /><summary type="html">C’était aujourd’hui le live hebdomadaire de Shadow sur Twitch. Beaucoup d’informations décevantes à propos des précommandes avaient été divulguées par e-mail et sur le Discord Officiel de Shadow durant les précédentes 48h. On n’attendait donc pas grand-chose de ce live… et on a quand même été déçu:</summary></entry><entry><title type="html">Shadow PC: les modérateurs bloquent les clients, qui réclament les nouvelles offres !</title><link href="/shadow-support-precommandes-problemes/" rel="alternate" type="text/html" title="Shadow PC: les modérateurs bloquent les clients, qui réclament les nouvelles offres !" /><published>2020-02-19T00:00:00+01:00</published><updated>2020-02-19T00:00:00+01:00</updated><id>/shadow-support-precommandes-problemes</id><content type="html" xml:base="/shadow-support-precommandes-problemes/">&lt;p&gt;Shadow PC, le pc gamer “complet” dans le cloud, tarde à honorer ses pré-commandes: Alors que les clients nouvellement abonnés à Shadow profitent de l’offre Boost à 12€/mois, les anciens clients, fidèles, continuent de payer 39,95€/mois. Cette situation échauffa, à juste titre, certains esprits. Qui n’ont pas manqué de le faire savoir sur le Discord Officiel de Shadow.&lt;/p&gt;
-
-&lt;p&gt;Face à cette vague de clients mécontents, les modérateurs ont instauré un slow-mode de 5 minutes. Empêchant ainsi quiconque de s’exprimer librement… Les réactions ne se sont pas faites attendre:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Le slowmode, sincèrement, c’est un manque de respect envers la communauté. Vous découragez les gens à se plaindre à tout va et pour éviter de vous en prendre pleins la gueule ! Les clients ont le droit d’être mécontents ici à propos des précommande.
-— Hogan, 13h00, Discord Shadow&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Il n’est pas possible d’avoir un débat ou des informations avec un Slowmode de 5 minutes… Lorsqu’on pose une question et qu’on estime la réponse imprécise, attendre 5 minutes pour relancer, c’est une honte !
-— Opakus, 13h04, Discord Shadow&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Elfamoso, employé de Shadow PC et modérateur, en profita pour rappeler que sur Discord, vous n’avez aucun support:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;On peut aussi mettre 10 min si ça va encore trop vite. La modération, ce n’est que la gestion, nous n’avons pas l’obligation de répondre !
-— Elfamoso, 13h06, Discord Shadow&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Par la suite, il menaça même de fermer le Discord de Shadow, sous prétexte que “Si l’entreprise Discord ferme, le serveur Discord Shadow disparaîtra !”&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/shadowpc2.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/shadowpc2.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/shadowpc2.jpg&quot; alt=&quot;Shadow PC: les modérateurs bloquent les clients, qui réclament les nouvelles offres !&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;p&gt;On notera au passage le tacle des “Martiens”, les clients abonnés à Shadow depuis la naissance de la startup, parmis lesquel sont sélectionnés les nouveaux modérateurs:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;La frustration est un apprentissage nécessaire dés la petite enfance, elle permet la sociabilité et la gestion des émotions. C’est la garantie du bon développement d’un être humain.
-— Motimo, 13h12, Discord Shadow&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;En attendant, le support sur le site internet de Shadow met toujours en moyenne une semaine pour vous répondre. Et est souvent incapable de régler des cas spécifiques: Vous recevez des réponses pré-fabriquées, loin du problème que vous leur aviez exposé.&lt;/p&gt;
-
-&lt;p&gt;Et pour les précommandes ? Vos nouvelles offres arriveront… quand elles arriveront !&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Edition:&lt;/em&gt;&lt;/strong&gt; Le slow-mode est passé à 10 minutes après l’envoi d’un email concernant l’activation des précommandes. Sans doute pour offrir plus de “visibilité” aux clients &lt;del&gt;mé&lt;/del&gt;contents !&lt;/p&gt;</content><author><name>edgar</name></author><category term="Shadow" /><category term="support" /><category term="malaise" /><summary type="html">Shadow PC, le pc gamer “complet” dans le cloud, tarde à honorer ses pré-commandes: Alors que les clients nouvellement abonnés à Shadow profitent de l’offre Boost à 12€/mois, les anciens clients, fidèles, continuent de payer 39,95€/mois. Cette situation échauffa, à juste titre, certains esprits. Qui n’ont pas manqué de le faire savoir sur le Discord Officiel de Shadow.</summary></entry></feed>
+&lt;p&gt;En bref, cette semaine, Shadow a perdu la confiance de beaucoup de ses clients. Certains vont attendre patiemment, certains vont se plaindre - Ce que je vous déconseille, depuis l’e-mail d’hier, les esprits échauffés des &lt;a href=&quot;https://flitch.news/shadow-support-precommandes-problemes/&quot;&gt;modérateurs Discord bannissent facilement&lt;/a&gt; -, d’autres encore vont résilier. Espérons seulement que Shadow puisse redresser la barre à temps et revenir dans la course face à ses concurrents !&lt;/p&gt;</content><author><name>edgar</name></author><category term="sticky" /><category term="Shadow" /><category term="précommandes" /><category term="mensonges" /><category term="malaise" /><summary type="html">C’était aujourd’hui le live hebdomadaire de Shadow sur Twitch. Beaucoup d’informations décevantes à propos des précommandes avaient été divulguées par e-mail et sur le Discord Officiel de Shadow durant les précédentes 48h. On n’attendait donc pas grand-chose de ce live… et on a quand même été déçu:</summary></entry></feed>
