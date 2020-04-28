@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-27T19:03:01+02:00</updated><id>/feed.xml</id><title type="html">Flitch News</title><subtitle>Actus &amp; perles cachées du web</subtitle><entry><title type="html">Minecraft 1.16: Mise à jour snapshot 20w17a</title><link href="/minecraft-snapshot-20w17/" rel="alternate" type="text/html" title="Minecraft 1.16: Mise à jour snapshot 20w17a" /><published>2020-04-27T00:00:00+02:00</published><updated>2020-04-27T00:00:00+02:00</updated><id>/minecraft-snapshot-20w17</id><content type="html" xml:base="/minecraft-snapshot-20w17/">&lt;p&gt;Voici la douzième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w17a. Dès maintenant téléchargeable depuis votre launcher.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-28T15:07:31+02:00</updated><id>/feed.xml</id><title type="html">Flitch News</title><subtitle>Actus &amp; perles cachées du web</subtitle><entry><title type="html">Riot va modifier l’anti-cheat ‘trop invasif’ de Valorant</title><link href="/valorant-anti-cheat-system-modifications/" rel="alternate" type="text/html" title="Riot va modifier l'anti-cheat 'trop invasif' de Valorant" /><published>2020-04-28T00:00:00+02:00</published><updated>2020-04-28T00:00:00+02:00</updated><id>/valorant-anti-cheat-system-modifications</id><content type="html" xml:base="/valorant-anti-cheat-system-modifications/">&lt;p&gt;Depuis sa release, l’anti-cheat de Valorant a été à l’origine de nombreuses controverses… Mais Riot Games va le rendre un peu moins «invasif».&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;picture&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/webp/valorant2.webp&quot; type=&quot;image/webp&quot; /&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/jpg/valorant2.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
+        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/valorant2.jpg&quot; alt=&quot;Riot va modifier l'anti-cheat 'trop invasif' de Valorant&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&quot;lanti-cheat-tourne-247-sur-votre-pc&quot;&gt;L’anti-cheat tourne 24/7 sur votre PC&lt;/h1&gt;
+&lt;p&gt;En effet, ce programme continue de fonctionner même lorsque vous ne jouez pas au jeu. Après de nombreuses critiques, Riot a publié une mise à jour qui permet aux joueurs de contourner la mesure anti-triche 24/7.&lt;/p&gt;
+
+&lt;h1 id=&quot;changements-à-venir&quot;&gt;Changements à venir&lt;/h1&gt;
+
+&lt;p&gt;La prochaine fois que vous lancerez Valorant, l’anti-cheat Vanguard apparaîtra avec une icône dans votre barre des tâches. Grâce à cette icône, vous pourrez désormais fermer le programme plus facilement qu’auparavant.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;picture&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/webp/valorant3.webp&quot; type=&quot;image/webp&quot; /&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/jpg/valorant3.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
+        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/valorant3.jpg&quot; alt=&quot;Riot va modifier l'anti-cheat 'trop invasif' de Valorant&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Un simple clic droit sur l’icône vous permettra de désactiver Vanguard. Les joueurs auront également la possibilité de désinstaller Vanguard à chaque fois qu’ils ferment le jeu. À la réouverture de Valorant, le système anti-triche sera automatiquement réinstallé.&lt;/p&gt;</content><author><name>edgar</name></author><category term="valorant" /><category term="update" /><summary type="html">Depuis sa release, l’anti-cheat de Valorant a été à l’origine de nombreuses controverses… Mais Riot Games va le rendre un peu moins «invasif».</summary></entry><entry><title type="html">Minecraft 1.16: Mise à jour snapshot 20w17a</title><link href="/minecraft-snapshot-20w17/" rel="alternate" type="text/html" title="Minecraft 1.16: Mise à jour snapshot 20w17a" /><published>2020-04-27T00:00:00+02:00</published><updated>2020-04-27T00:00:00+02:00</updated><id>/minecraft-snapshot-20w17</id><content type="html" xml:base="/minecraft-snapshot-20w17/">&lt;p&gt;Voici la douzième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w17a. Dès maintenant téléchargeable depuis votre launcher.&lt;/p&gt;
 
 &lt;h1 id=&quot;nouveau-contenu&quot;&gt;Nouveau contenu&lt;/h1&gt;
 &lt;ul&gt;
@@ -55,17 +80,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Si vous désirez plus de jeux gratuits, consulter l’&lt;a href=&quot;https://flitch.news/jeux-gratuits-jour-1/&quot;&gt;article de la semaine dernière&lt;/a&gt;.&lt;/p&gt;</content><author><name>edgar</name></author><category term="featured" /><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.</summary></entry><entry><title type="html">Leak: Code source de CS:GO et TF2 sur internet</title><link href="/cs-go-team-fortress-source-code-leaked/" rel="alternate" type="text/html" title="Leak: Code source de CS:GO et TF2 sur internet" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/cs-go-team-fortress-source-code-leaked</id><content type="html" xml:base="/cs-go-team-fortress-source-code-leaked/">&lt;p&gt;Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !&lt;/p&gt;
-
-&lt;h1 id=&quot;quest-ce-que-cela-implique-&quot;&gt;Qu’est-ce que cela implique ?&lt;/h1&gt;
-
-&lt;p&gt;Cela peut potentiellement impliquer le début de la fin pour CS:GO tel que nous le connaissons ! Ou du moins, jusqu’à ce que Valve ne passe à “Source 2” le nouveau moteur de jeu pour Counter Strike.&lt;/p&gt;
-
-&lt;h1 id=&quot;pourquoi-est-ce-si-mauvais-&quot;&gt;Pourquoi est-ce si mauvais ?&lt;/h1&gt;
-
-&lt;p&gt;La réponse est simple: La fuite du code source fournira aux pirates et aux hackeurs beaucoup plus d’informations sur le moteur du jeu, leur permettant ainsi de créer beaucoup plus facilement de nouvelles manières de tricher.&lt;/p&gt;
-
-&lt;p&gt;Attendez-vous à voir de plus en plus de tricheurs dans les semaines à venir, car les hackeurs sont très susceptibles d’exploiter cette vulnérabilité !&lt;/p&gt;</content><author><name>edgar</name></author><category term="valve" /><category term="steam" /><category term="csgo" /><category term="malaise" /><summary type="html">Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !</summary></entry><entry><title type="html">Giveaway: 3x Subnautica sur Epic Store</title><link href="/subnautica-free-giveaway-1/" rel="alternate" type="text/html" title="Giveaway: 3x Subnautica sur Epic Store" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/subnautica-free-giveaway-1</id><content type="html" xml:base="/subnautica-free-giveaway-1/">&lt;p&gt;Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.&lt;/p&gt;
+&lt;p&gt;Si vous désirez plus de jeux gratuits, consulter l’&lt;a href=&quot;https://flitch.news/jeux-gratuits-jour-1/&quot;&gt;article de la semaine dernière&lt;/a&gt;.&lt;/p&gt;</content><author><name>edgar</name></author><category term="featured" /><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.</summary></entry><entry><title type="html">Giveaway: 3x Subnautica sur Epic Store</title><link href="/subnautica-free-giveaway-1/" rel="alternate" type="text/html" title="Giveaway: 3x Subnautica sur Epic Store" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/subnautica-free-giveaway-1</id><content type="html" xml:base="/subnautica-free-giveaway-1/">&lt;p&gt;Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;https://giv.gg/FzhZqf&quot;&gt;&lt;h1&gt;Participer sur Givelab&lt;/h1&gt;&lt;/a&gt;&lt;/div&gt;
 
@@ -75,23 +90,17 @@
 
 &lt;h1 id=&quot;subnautica-cest-quoi-&quot;&gt;Subnautica, c’est quoi ?&lt;/h1&gt;
 
-&lt;p&gt;Subnautica est un jeu vidéo de survie développé et distribué par Unknown Worlds. Descendez dans les profondeurs d’un monde sous-marin étranger plein de merveilles et périls. Concevez des équipements, pilotez des sous-marins, terraformez un terrain voxel, et adaptez-vous à la vie sauvage afin d’explorer le monde, tout en essayant de survivre.&lt;/p&gt;</content><author><name>edgar</name></author><category term="featured" /><category term="subnautica" /><summary type="html">Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.</summary></entry><entry><title type="html">Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients</title><link href="/geforce-now-gratuit-clients-founders/" rel="alternate" type="text/html" title="Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients" /><published>2020-04-22T00:00:00+02:00</published><updated>2020-04-22T00:00:00+02:00</updated><id>/geforce-now-gratuit-clients-founders</id><content type="html" xml:base="/geforce-now-gratuit-clients-founders/">&lt;p&gt;Geforce Now est un service de Cloud Gaming orienté client: Depuis le début, il refuse de payer les éditeurs avides d’argent (tels que Rockstar ou Blizzard), pour ainsi pouvoir proposer de petits prix: 5 Euros/mois pendant 1 an, avec 3 mois gratuits.&lt;/p&gt;
+&lt;p&gt;Subnautica est un jeu vidéo de survie développé et distribué par Unknown Worlds. Descendez dans les profondeurs d’un monde sous-marin étranger plein de merveilles et périls. Concevez des équipements, pilotez des sous-marins, terraformez un terrain voxel, et adaptez-vous à la vie sauvage afin d’explorer le monde, tout en essayant de survivre.&lt;/p&gt;</content><author><name>edgar</name></author><category term="featured" /><category term="subnautica" /><summary type="html">Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.</summary></entry><entry><title type="html">Leak: Code source de CS:GO et TF2 sur internet</title><link href="/cs-go-team-fortress-source-code-leaked/" rel="alternate" type="text/html" title="Leak: Code source de CS:GO et TF2 sur internet" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/cs-go-team-fortress-source-code-leaked</id><content type="html" xml:base="/cs-go-team-fortress-source-code-leaked/">&lt;p&gt;Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !&lt;/p&gt;
 
-&lt;h1 id=&quot;1-mois-gratuit-en-plus-&quot;&gt;1 mois gratuit en plus !&lt;/h1&gt;
+&lt;h1 id=&quot;quest-ce-que-cela-implique-&quot;&gt;Qu’est-ce que cela implique ?&lt;/h1&gt;
 
-&lt;p&gt;Dès aujourd’hui, tous les utilisateurs de Geforce Now reçoivent un mois gratuit supplémentaire ! Ils commenceront donc à payer leur facture un mois plus tard. Cela fera donc quatre mois qu’ils profitent d’un service de cloud gaming sans débourser le moindre euro.&lt;/p&gt;
+&lt;p&gt;Cela peut potentiellement impliquer le début de la fin pour CS:GO tel que nous le connaissons ! Ou du moins, jusqu’à ce que Valve ne passe à “Source 2” le nouveau moteur de jeu pour Counter Strike.&lt;/p&gt;
 
-&lt;p&gt;Voici le mail que vous avez dû recevoir:&lt;/p&gt;
+&lt;h1 id=&quot;pourquoi-est-ce-si-mauvais-&quot;&gt;Pourquoi est-ce si mauvais ?&lt;/h1&gt;
 
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/geforcenow3.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/geforcenow3.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/geforcenow3.jpg&quot; alt=&quot;Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
+&lt;p&gt;La réponse est simple: La fuite du code source fournira aux pirates et aux hackeurs beaucoup plus d’informations sur le moteur du jeu, leur permettant ainsi de créer beaucoup plus facilement de nouvelles manières de tricher.&lt;/p&gt;
 
-&lt;p&gt;Merci Nvidia !&lt;/p&gt;</content><author><name>edgar</name></author><category term="GeforceNow" /><category term="Nvidia" /><category term="gratuit" /><summary type="html">Geforce Now est un service de Cloud Gaming orienté client: Depuis le début, il refuse de payer les éditeurs avides d’argent (tels que Rockstar ou Blizzard), pour ainsi pouvoir proposer de petits prix: 5 Euros/mois pendant 1 an, avec 3 mois gratuits.</summary></entry><entry><title type="html">Animal Crossing: Découvrez la mise à jour du 23 avril</title><link href="/animal-crossing-new-horizon-update-23/" rel="alternate" type="text/html" title="Animal Crossing: Découvrez la mise à jour du 23 avril" /><published>2020-04-22T00:00:00+02:00</published><updated>2020-04-22T00:00:00+02:00</updated><id>/animal-crossing-new-horizon-update-23</id><content type="html" xml:base="/animal-crossing-new-horizon-update-23/">&lt;p&gt;Animal Crossing New Horizon recevra une mise à jour ce 23 avril ! Qu’allons-nous avoir de nouveau ? Voici le résumé:&lt;/p&gt;
+&lt;p&gt;Attendez-vous à voir de plus en plus de tricheurs dans les semaines à venir, car les hackeurs sont très susceptibles d’exploiter cette vulnérabilité !&lt;/p&gt;</content><author><name>edgar</name></author><category term="valve" /><category term="steam" /><category term="csgo" /><category term="malaise" /><summary type="html">Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !</summary></entry><entry><title type="html">Animal Crossing: Découvrez la mise à jour du 23 avril</title><link href="/animal-crossing-new-horizon-update-23/" rel="alternate" type="text/html" title="Animal Crossing: Découvrez la mise à jour du 23 avril" /><published>2020-04-22T00:00:00+02:00</published><updated>2020-04-22T00:00:00+02:00</updated><id>/animal-crossing-new-horizon-update-23</id><content type="html" xml:base="/animal-crossing-new-horizon-update-23/">&lt;p&gt;Animal Crossing New Horizon recevra une mise à jour ce 23 avril ! Qu’allons-nous avoir de nouveau ? Voici le résumé:&lt;/p&gt;
 
 &lt;h1 id=&quot;nouveau-contenu&quot;&gt;Nouveau contenu:&lt;/h1&gt;
 
@@ -122,7 +131,23 @@
   &lt;li&gt;
     &lt;p&gt;La saison des mariages, durant tout le mois de juin, un évènement dont le but serait d’organiser le mariage parfait pour Serge et Risette sur photopia !&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>edgar</name></author><category term="animal crossing" /><category term="release" /><summary type="html">Animal Crossing New Horizon recevra une mise à jour ce 23 avril ! Qu’allons-nous avoir de nouveau ? Voici le résumé:</summary></entry><entry><title type="html">Far Cry &amp;amp; Assassin’s Creed disponibles sur Geforce Now</title><link href="/far-cry-assasins-creed-geforce-now/" rel="alternate" type="text/html" title="Far Cry &amp; Assassin's Creed disponibles sur Geforce Now" /><published>2020-04-21T00:00:00+02:00</published><updated>2020-04-21T00:00:00+02:00</updated><id>/far-cry-assasins-creed-geforce-now</id><content type="html" xml:base="/far-cry-assasins-creed-geforce-now/">&lt;p&gt;Ubisoft et Nvidia se rapprochent de plus en plus, permettant dès aujourd’hui aux titres suivants d’être jouable sur la plateforme de cloud-gaming Geforce Now:&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>edgar</name></author><category term="animal crossing" /><category term="release" /><summary type="html">Animal Crossing New Horizon recevra une mise à jour ce 23 avril ! Qu’allons-nous avoir de nouveau ? Voici le résumé:</summary></entry><entry><title type="html">Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients</title><link href="/geforce-now-gratuit-clients-founders/" rel="alternate" type="text/html" title="Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients" /><published>2020-04-22T00:00:00+02:00</published><updated>2020-04-22T00:00:00+02:00</updated><id>/geforce-now-gratuit-clients-founders</id><content type="html" xml:base="/geforce-now-gratuit-clients-founders/">&lt;p&gt;Geforce Now est un service de Cloud Gaming orienté client: Depuis le début, il refuse de payer les éditeurs avides d’argent (tels que Rockstar ou Blizzard), pour ainsi pouvoir proposer de petits prix: 5 Euros/mois pendant 1 an, avec 3 mois gratuits.&lt;/p&gt;
+
+&lt;h1 id=&quot;1-mois-gratuit-en-plus-&quot;&gt;1 mois gratuit en plus !&lt;/h1&gt;
+
+&lt;p&gt;Dès aujourd’hui, tous les utilisateurs de Geforce Now reçoivent un mois gratuit supplémentaire ! Ils commenceront donc à payer leur facture un mois plus tard. Cela fera donc quatre mois qu’ils profitent d’un service de cloud gaming sans débourser le moindre euro.&lt;/p&gt;
+
+&lt;p&gt;Voici le mail que vous avez dû recevoir:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;picture&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/webp/geforcenow3.webp&quot; type=&quot;image/webp&quot; /&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/jpg/geforcenow3.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
+        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/geforcenow3.jpg&quot; alt=&quot;Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Merci Nvidia !&lt;/p&gt;</content><author><name>edgar</name></author><category term="GeforceNow" /><category term="Nvidia" /><category term="gratuit" /><summary type="html">Geforce Now est un service de Cloud Gaming orienté client: Depuis le début, il refuse de payer les éditeurs avides d’argent (tels que Rockstar ou Blizzard), pour ainsi pouvoir proposer de petits prix: 5 Euros/mois pendant 1 an, avec 3 mois gratuits.</summary></entry><entry><title type="html">Far Cry &amp;amp; Assassin’s Creed disponibles sur Geforce Now</title><link href="/far-cry-assasins-creed-geforce-now/" rel="alternate" type="text/html" title="Far Cry &amp; Assassin's Creed disponibles sur Geforce Now" /><published>2020-04-21T00:00:00+02:00</published><updated>2020-04-21T00:00:00+02:00</updated><id>/far-cry-assasins-creed-geforce-now</id><content type="html" xml:base="/far-cry-assasins-creed-geforce-now/">&lt;p&gt;Ubisoft et Nvidia se rapprochent de plus en plus, permettant dès aujourd’hui aux titres suivants d’être jouable sur la plateforme de cloud-gaming Geforce Now:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Assassin’s Creed Rogue (Uplay &amp;amp; Steam)&lt;/li&gt;
@@ -180,11 +205,4 @@
         &lt;source srcset=&quot;https://img1.flitch.news/jpg/deal1.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
         &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/deal1.jpg&quot; alt=&quot;Deals: Les jeux et DLCs récupérables gratuitement&quot; /&gt;
     &lt;/picture&gt;
-&lt;/p&gt;</content><author><name>edgar</name></author><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.</summary></entry><entry><title type="html">Vidéo: Cambrioler le train de Lorville en No Fly Zone sur Star Citizen</title><link href="/star-citizen-bug-metro-no-fly-zone/" rel="alternate" type="text/html" title="Vidéo: Cambrioler le train de Lorville en No Fly Zone sur Star Citizen" /><published>2020-04-20T00:00:00+02:00</published><updated>2020-04-20T00:00:00+02:00</updated><id>/star-citizen-bug-metro-no-fly-zone</id><content type="html" xml:base="/star-citizen-bug-metro-no-fly-zone/">&lt;p&gt;Les alpha-tests de jeux vidéo comportent souvent de nombreux bugs… Mais certains nous feraient presque sourire, comme ce joueur qui est parvenu à entrer en “No Fly Zone” afin de voler le métro de Lorville !&lt;/p&gt;
-
-&lt;iframe class=&quot;embed-youtube&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/SabI32dr6Lc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;h1 id=&quot;comment-fait-il-&quot;&gt;Comment fait-il ?&lt;/h1&gt;
-
-&lt;p&gt;Vous pouvez accéder aux “No Fly Zones” en sortant votre train d’atterrissage et en coupant vos moteurs. Habituellement, lorsque vous entrez dans une No Fly Zone, le jeu prend le contrôle de votre vaisseau pour l’éloigner. Mais cela devient impossible si vous coupez vos moteurs !&lt;/p&gt;</content><author><name>edgar</name></author><category term="StarCitizen" /><category term="release" /><summary type="html">Les alpha-tests de jeux vidéo comportent souvent de nombreux bugs… Mais certains nous feraient presque sourire, comme ce joueur qui est parvenu à entrer en “No Fly Zone” afin de voler le métro de Lorville !</summary></entry></feed>
+&lt;/p&gt;</content><author><name>edgar</name></author><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.</summary></entry></feed>
