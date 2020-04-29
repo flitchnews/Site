@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-29T20:33:16+02:00</updated><id>/feed.xml</id><title type="html">Flitch News</title><subtitle>Actus &amp; perles cachées du web</subtitle><entry><title type="html">Deals: Les jeux et DLCs récupérables gratuitement ce 28 Avril</title><link href="/jeux-gratuits-28-avril/" rel="alternate" type="text/html" title="Deals: Les jeux et DLCs récupérables gratuitement ce 28 Avril" /><published>2020-04-28T00:00:00+02:00</published><updated>2020-04-28T00:00:00+02:00</updated><id>/jeux-gratuits-28-avril</id><content type="html" xml:base="/jeux-gratuits-28-avril/">&lt;p&gt;Sur Flitch News, découvrez chaque semaine la liste des jeux et DLCs récupérables gratuitement.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-29T20:44:37+02:00</updated><id>/feed.xml</id><title type="html">Flitch News</title><subtitle>Actus &amp; perles cachées du web</subtitle><entry><title type="html">Minecraft 1.16: Mise à jour snapshot 20w18a</title><link href="/minecraft-snapshot-20w18a/" rel="alternate" type="text/html" title="Minecraft 1.16: Mise à jour snapshot 20w18a" /><published>2020-04-29T00:00:00+02:00</published><updated>2020-04-29T00:00:00+02:00</updated><id>/minecraft-snapshot-20w18a</id><content type="html" xml:base="/minecraft-snapshot-20w18a/">&lt;p&gt;Voici la treizième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w18a. Dès maintenant téléchargeable depuis votre launcher.&lt;/p&gt;
+
+&lt;h1 id=&quot;nouveau-contenu&quot;&gt;Nouveau contenu&lt;/h1&gt;
+&lt;p&gt;L’état de bloc, le rendu et le comportement de la Redstone sont plus en accord les uns avec les autres. La redstone fournira de l’énergie aux blocs de tous les côtés avec lesquels il possède une connexion visuelle, et ne le fera pas des côtés sans connexion visuelle.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Un fil de Redstone seul est maintenant représenté par une croix&lt;/li&gt;
+  &lt;li&gt;Un fil au sommet d’un bloc, qui est redirigé par le bas, alimentera les côtés vers lesquels il est maintenant redirigé. Par exemple, un portail de clôture au-dessus du fil redirigé sera alimenté.&lt;/li&gt;
+  &lt;li&gt;Les fils qui sont redirigé vers le haut vers des fils situés sur des blocs non conducteurs n’étaient auparavant redirigés que visuellement. Maintenant, cette redirection s’applique également à leur comportement.&lt;/li&gt;
+  &lt;li&gt;Un fil qui est redirigé pour passer au-dessus d’un bloc fournira désormais toujours de l’énergie au bloc. Cela est particulièrement visible lorsque le fil a une intensité de signal 1.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;picture&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/webp/minecraft3.webp&quot; type=&quot;image/webp&quot; /&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/jpg/minecraft3.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
+        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/minecraft3.jpg&quot; alt=&quot;Minecraft 1.16: Mise à jour snapshot 20w18a&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&quot;modifications&quot;&gt;Modifications&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ajout d’une option enable-status au fichier server.properties qui, si elle est définie sur false, supprimera les réponses aux demandes de statut des clients. Cela fait apparaître le serveur hors ligne dans l’écran multijoueur&lt;/li&gt;
+  &lt;li&gt;Ajout d’un contrôle sur la quantité de données d’entités qu’un serveur envoie aux clients&lt;/li&gt;
+  &lt;li&gt;Changements dans le système de progrès&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;# Télécharger
+ Pour jouer sur cette snapshot avec vos amis, &lt;a href=&quot;https://launcher.mojang.com/v1/objects/4d84832bdc7f62aa96b0d5d5a73b1272e8c474b5/server.jar&quot;&gt;téléchargez la version serveur&lt;/a&gt;.&lt;/p&gt;</content><author><name>edgar</name></author><category term="minecraft" /><category term="release" /><category term="update" /><summary type="html">Voici la treizième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w18a. Dès maintenant téléchargeable depuis votre launcher.</summary></entry><entry><title type="html">Deals: Les jeux et DLCs récupérables gratuitement ce 28 Avril</title><link href="/jeux-gratuits-28-avril/" rel="alternate" type="text/html" title="Deals: Les jeux et DLCs récupérables gratuitement ce 28 Avril" /><published>2020-04-28T00:00:00+02:00</published><updated>2020-04-28T00:00:00+02:00</updated><id>/jeux-gratuits-28-avril</id><content type="html" xml:base="/jeux-gratuits-28-avril/">&lt;p&gt;Sur Flitch News, découvrez chaque semaine la liste des jeux et DLCs récupérables gratuitement.&lt;/p&gt;
 
 &lt;h1 id=&quot;jeux-temporairement-gratuits-à-récupérer&quot;&gt;Jeux temporairement gratuits à récupérer&lt;/h1&gt;
 
@@ -193,22 +221,4 @@
   &lt;li&gt;Far Cry 3 (Uplay &amp;amp; Steam)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Vous ne connaissez pas encore Geforce Now ? Passez donc par &lt;a href=&quot;https://www.nvidia.com/en-eu/geforce-now/&quot;&gt;leur site internet&lt;/a&gt; !&lt;/p&gt;</content><author><name>edgar</name></author><category term="GeforceNow" /><category term="nvidia" /><category term="librairie" /><summary type="html">Ubisoft et Nvidia se rapprochent de plus en plus, permettant dès aujourd’hui aux titres suivants d’être jouable sur la plateforme de cloud-gaming Geforce Now:</summary></entry><entry><title type="html">Valorant: Impossible d’y jouer sur Shadow PC ni sur Geforce Now</title><link href="/valorant-indisponible-shadow-geforce/" rel="alternate" type="text/html" title="Valorant: Impossible d'y jouer sur Shadow PC ni sur Geforce Now" /><published>2020-04-21T00:00:00+02:00</published><updated>2020-04-21T00:00:00+02:00</updated><id>/valorant-indisponible-shadow-geforce</id><content type="html" xml:base="/valorant-indisponible-shadow-geforce/">&lt;p&gt;C’est le jeu du moment, les utilisateurs de Twitch ne peuvent pas le manquer: &lt;a href=&quot;https://beta.playvalorant.com/&quot;&gt;Valorant&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Le CS:GO like version Riot a su créé la hype en distribuant au compte-goute des clés Beta. Nombreux sont ceux qui souhaitent y jouer en cette période de confinement.&lt;/p&gt;
-
-&lt;h1 id=&quot;pas-de-valorant-sur-le-pc-du-futur&quot;&gt;Pas de Valorant sur le PC du futur&lt;/h1&gt;
-&lt;p&gt;Malheureusement, les utilisateurs de Shadow, la start-up française qui offre du cloud computing (et non “gaming”, comme elle aime le rappeler), ne peuvent pas installer Valorant sur leurs PC…&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/shadowpc14.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/shadowpc14.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/shadowpc14.jpg&quot; alt=&quot;Valorant: Impossible d'y jouer sur Shadow PC ni sur Geforce Now&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Selon Shadow, le problème serait dû au système d’anti-cheat de Riot. Shadow assure cependant qu’il discute avec Riot afin que ses clients puissent accéder à ce jeu rapidement. Espérons que le PC du futur puisse faire tourner Valorant bientôt !&lt;/p&gt;
-
-&lt;h1 id=&quot;et-sur-geforce-now-&quot;&gt;Et sur Geforce Now ?&lt;/h1&gt;
-&lt;p&gt;L’impatience des utilisateurs de Geforce Now est moins grande: Nvidia a comme politique d’ajouter uniquement des jeux en version finale. Et les utilisateurs le savent. Il est donc probable que Valorant sera disponible sur Geforce Now dans la semaine qui suivra sa sortie officielle.&lt;/p&gt;</content><author><name>edgar</name></author><category term="featured" /><category term="Shadow" /><category term="Blade" /><category term="Valorant" /><category term="GeforceNow" /><category term="Nvidia" /><category term="malaise" /><summary type="html">C’est le jeu du moment, les utilisateurs de Twitch ne peuvent pas le manquer: Valorant.</summary></entry></feed>
+&lt;p&gt;Vous ne connaissez pas encore Geforce Now ? Passez donc par &lt;a href=&quot;https://www.nvidia.com/en-eu/geforce-now/&quot;&gt;leur site internet&lt;/a&gt; !&lt;/p&gt;</content><author><name>edgar</name></author><category term="GeforceNow" /><category term="nvidia" /><category term="librairie" /><summary type="html">Ubisoft et Nvidia se rapprochent de plus en plus, permettant dès aujourd’hui aux titres suivants d’être jouable sur la plateforme de cloud-gaming Geforce Now:</summary></entry></feed>
