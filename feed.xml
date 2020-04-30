@@ -1,233 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-30T16:49:57+02:00</updated><id>/feed.xml</id><title type="html">Flitch News</title><subtitle>Actus &amp; perles cachées du web</subtitle><entry><title type="html">Deep Rock Galactic: Release le 13 mai &amp;amp; skins gratuits</title><link href="/deep-rock-galactic-release-13-mai/" rel="alternate" type="text/html" title="Deep Rock Galactic: Release le 13 mai &amp; skins gratuits" /><published>2020-04-30T00:00:00+02:00</published><updated>2020-04-30T00:00:00+02:00</updated><id>/deep-rock-galactic-release-13-mai</id><content type="html" xml:base="/deep-rock-galactic-release-13-mai/">&lt;p&gt;Le 13 mai, dans deux semaines, nous pourrons célébrer le lancement de la 1.0 de Deep Rock Galactic !&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+  <feed version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
-&lt;iframe class=&quot;embed-youtube&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/wd0YDB8X6vk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
+    <title>Flitch News</title>
+    <description>Actus &amp; perles cachées du web</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 
-&lt;h1 id=&quot;la-10-disponible-dès-maintenant-en-beta&quot;&gt;La 1.0 disponible dès maintenant en Beta&lt;/h1&gt;
+    
+      
+        <item>
+          <title>Deep Rock Galactic: Release le 13 mai &amp; skins gratuits</title>
+          <description>Le 13 mai, dans deux semaines, nous pourrons célébrer le lancement de la 1.0 de Deep Rock Galactic !La 1.0 disponible dès maintenant en BetaDès maintenant, la version 1.0 est accessib...</description>
+          <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/deep-rock-galactic-release-13-mai/</link>
+          <guid isPermaLink="true">/deep-rock-galactic-release-13-mai/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Minecraft 1.16: Mise à jour snapshot 20w18a</title>
+          <description>Voici la treizième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w18a. Dès maintenant téléchargeable depuis votre launcher.Nouveau contenuL’état de bloc, le rendu et le co...</description>
+          <pubDate>Wed, 29 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/minecraft-snapshot-20w18a/</link>
+          <guid isPermaLink="true">/minecraft-snapshot-20w18a/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Riot va modifier l'anti-cheat 'trop invasif' de Valorant</title>
+          <description>Depuis sa release, l’anti-cheat de Valorant a été à l’origine de nombreuses controverses… Mais Riot Games va le rendre un peu moins «invasif».                                L’anti-ch...</description>
+          <pubDate>Tue, 28 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/valorant-anti-cheat-system-modifications/</link>
+          <guid isPermaLink="true">/valorant-anti-cheat-system-modifications/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Deals: Les jeux et DLCs récupérables gratuitement ce 28 Avril</title>
+          <description>Sur Flitch News, découvrez chaque semaine la liste des jeux et DLCs récupérables gratuitement.Jeux temporairement gratuits à récupérer                                  Total War: Shog...</description>
+          <pubDate>Tue, 28 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/jeux-gratuits-28-avril/</link>
+          <guid isPermaLink="true">/jeux-gratuits-28-avril/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Minecraft 1.16: Mise à jour snapshot 20w17a</title>
+          <description>Voici la douzième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w17a. Dès maintenant téléchargeable depuis votre launcher.Nouveau contenu  Ajout d’une option d’échelle de ...</description>
+          <pubDate>Mon, 27 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/minecraft-snapshot-20w17/</link>
+          <guid isPermaLink="true">/minecraft-snapshot-20w17/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Deals: Les jeux et DLCs récupérables gratuitement ce 24 Avril</title>
+          <description>Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.Jeux temporairement gratuits à récupérer      For the king, distribué par Epic Games et récu...</description>
+          <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/jeux-gratuits-24-avril/</link>
+          <guid isPermaLink="true">/jeux-gratuits-24-avril/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Giveaway: 3x Subnautica sur Epic Store</title>
+          <description>Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.Participer sur GivelabDes giveaw...</description>
+          <pubDate>Thu, 23 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/subnautica-free-giveaway-1/</link>
+          <guid isPermaLink="true">/subnautica-free-giveaway-1/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Leak: Code source de CS:GO et TF2 sur internet</title>
+          <description>Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les...</description>
+          <pubDate>Thu, 23 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/cs-go-team-fortress-source-code-leaked/</link>
+          <guid isPermaLink="true">/cs-go-team-fortress-source-code-leaked/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients</title>
+          <description>Geforce Now est un service de Cloud Gaming orienté client: Depuis le début, il refuse de payer les éditeurs avides d’argent (tels que Rockstar ou Blizzard), pour ainsi pouvoir propose...</description>
+          <pubDate>Wed, 22 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/geforce-now-gratuit-clients-founders/</link>
+          <guid isPermaLink="true">/geforce-now-gratuit-clients-founders/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Animal Crossing: Découvrez la mise à jour du 23 avril</title>
+          <description>Animal Crossing New Horizon recevra une mise à jour ce 23 avril ! Qu’allons-nous avoir de nouveau ? Voici le résumé:Nouveau contenu:      Racine débarque sur la place: Avec les tradit...</description>
+          <pubDate>Wed, 22 Apr 2020 00:00:00 +0200</pubDate>
+          <link>/animal-crossing-new-horizon-update-23/</link>
+          <guid isPermaLink="true">/animal-crossing-new-horizon-update-23/</guid>
+        </item>
+      
+    
 
-&lt;p&gt;Dès maaintenant, la version 1.0 est accessible depuis l’experimental branch. Elle comprend les 14 nouvelles pistes musicales, 3 nouveaux rangs de promotion, ainsi qu’une longue liste de corrections de bugs et pas mal d’optimisations. Vous pouvez y accéder &lt;a href=&quot;https://steamcommunity.com/linkfilter/?url=https://steamcommunity.com/app/548430/discussions/9/2271447149929590050/&quot;&gt;en cliquant par ici&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;giveaways-des-chapeaux-saisonniers&quot;&gt;Giveaways des chapeaux saisonniers&lt;/h1&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/drg3.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/drg3.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/drg3.jpg&quot; alt=&quot;Deep Rock Galactic: Release le 13 mai &amp;amp; skins gratuits&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Dans la version Live de Steam (la Màj 29), un cadeau spécial a été activé pour tous:&lt;/p&gt;
-
-&lt;p&gt;Au cours de ces 2 ans d’accès anticipé, certains chapeaux sont sortis en quantité limitée. Dès d’aujourd’hui et jusqu’au 12 mai, vous pouvez les réclamer TOUS en un seul clic. Allez les réclamer !&lt;/p&gt;</content><author><name>edgar</name></author><category term="deep rock galactic" /><category term="release" /><category term="update" /><summary type="html">Le 13 mai, dans deux semaines, nous pourrons célébrer le lancement de la 1.0 de Deep Rock Galactic !</summary></entry><entry><title type="html">Minecraft 1.16: Mise à jour snapshot 20w18a</title><link href="/minecraft-snapshot-20w18a/" rel="alternate" type="text/html" title="Minecraft 1.16: Mise à jour snapshot 20w18a" /><published>2020-04-29T00:00:00+02:00</published><updated>2020-04-29T00:00:00+02:00</updated><id>/minecraft-snapshot-20w18a</id><content type="html" xml:base="/minecraft-snapshot-20w18a/">&lt;p&gt;Voici la treizième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w18a. Dès maintenant téléchargeable depuis votre launcher.&lt;/p&gt;
-
-&lt;h1 id=&quot;nouveau-contenu&quot;&gt;Nouveau contenu&lt;/h1&gt;
-&lt;p&gt;L’état de bloc, le rendu et le comportement de la Redstone sont plus en accord les uns avec les autres. La redstone fournira de l’énergie aux blocs de tous les côtés avec lesquels il possède une connexion visuelle, et ne le fera pas des côtés sans connexion visuelle.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Un fil de Redstone seul est maintenant représenté par une croix&lt;/li&gt;
-  &lt;li&gt;Un fil au sommet d’un bloc, qui est redirigé par le bas, alimentera les côtés vers lesquels il est maintenant redirigé. Par exemple, un portail de clôture au-dessus du fil redirigé sera alimenté.&lt;/li&gt;
-  &lt;li&gt;Les fils qui sont redirigé vers le haut vers des fils situés sur des blocs non conducteurs n’étaient auparavant redirigés que visuellement. Maintenant, cette redirection s’applique également à leur comportement.&lt;/li&gt;
-  &lt;li&gt;Un fil qui est redirigé pour passer au-dessus d’un bloc fournira désormais toujours de l’énergie au bloc. Cela est particulièrement visible lorsque le fil a une intensité de signal 1.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/minecraft3.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/minecraft3.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/minecraft3.jpg&quot; alt=&quot;Minecraft 1.16: Mise à jour snapshot 20w18a&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&quot;modifications&quot;&gt;Modifications&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ajout d’une option enable-status au fichier server.properties qui, si elle est définie sur false, supprimera les réponses aux demandes de statut des clients. Cela fait apparaître le serveur hors ligne dans l’écran multijoueur&lt;/li&gt;
-  &lt;li&gt;Ajout d’un contrôle sur la quantité de données d’entités qu’un serveur envoie aux clients&lt;/li&gt;
-  &lt;li&gt;Changements dans le système de progrès&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;télécharger&quot;&gt;Télécharger&lt;/h1&gt;
-&lt;p&gt;Pour jouer sur cette snapshot avec vos amis, &lt;a href=&quot;https://launcher.mojang.com/v1/objects/4d84832bdc7f62aa96b0d5d5a73b1272e8c474b5/server.jar&quot;&gt;téléchargez la version serveur&lt;/a&gt;.&lt;/p&gt;</content><author><name>edgar</name></author><category term="minecraft" /><category term="release" /><category term="update" /><summary type="html">Voici la treizième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w18a. Dès maintenant téléchargeable depuis votre launcher.</summary></entry><entry><title type="html">Deals: Les jeux et DLCs récupérables gratuitement ce 28 Avril</title><link href="/jeux-gratuits-28-avril/" rel="alternate" type="text/html" title="Deals: Les jeux et DLCs récupérables gratuitement ce 28 Avril" /><published>2020-04-28T00:00:00+02:00</published><updated>2020-04-28T00:00:00+02:00</updated><id>/jeux-gratuits-28-avril</id><content type="html" xml:base="/jeux-gratuits-28-avril/">&lt;p&gt;Sur Flitch News, découvrez chaque semaine la liste des jeux et DLCs récupérables gratuitement.&lt;/p&gt;
-
-&lt;h1 id=&quot;jeux-temporairement-gratuits-à-récupérer&quot;&gt;Jeux temporairement gratuits à récupérer&lt;/h1&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/deal5.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/deal5.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/deal5.jpg&quot; alt=&quot;Deals: Les jeux et DLCs récupérables gratuitement ce 28 Avril&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/201270/Total_War_SHOGUN_2/&quot;&gt;Total War: Shogun 2&lt;/a&gt;: Si vous n’avez jamais mis vos mains sur un Total War, c’est le moment &lt;a href=&quot;https://store.steampowered.com/app/201270/Total_War_SHOGUN_2/&quot;&gt;de commencer&lt;/a&gt; !&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/deal6.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/deal6.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/deal6.jpg&quot; alt=&quot;Deals: Les jeux et DLCs récupérables gratuitement ce 28 Avril&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/441380/PACMAN_CHAMPIONSHIP_EDITION_2/&quot;&gt;Pac-Man Championship Edition 2&lt;/a&gt;: Pour les amoureux des jeux rétros, à &lt;a href=&quot;https://store.steampowered.com/app/441380/PACMAN_CHAMPIONSHIP_EDITION_2/&quot;&gt;récupérer sur Steam&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;giveaways&quot;&gt;Giveaways&lt;/h1&gt;
-
-&lt;p&gt;Alienware distribue des clés Steam de &lt;a href=&quot;https://store.steampowered.com/app/517710/Redout_Enhanced_Edition/&quot;&gt;Redout Enhanced Edition&lt;/a&gt;. Pour en obtenir une, vous devez avoir un compte de niveau 2 sur Alienware et &lt;a href=&quot;https://eu.alienwarearena.com/ucf/show/2127668/boards/contest-and-giveaways-global/Giveaway/redout-enhanced-edition-steam-game-key&quot;&gt;cliquer par-ici&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;dlcs-en-promotion&quot;&gt;DLCs en promotion&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://store.steampowered.com/app/201270/Total_War_SHOGUN_2/&quot;&gt;Total War: Shogun 2&lt;/a&gt;, en plus d’être gratuit, offre l’ensemble de ses DLCs à -75% ! Une occasion en or d’aquérir le jeu au complet pour un petit prix.&lt;/p&gt;</content><author><name>edgar</name></author><category term="featured" /><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque semaine la liste des jeux et DLCs récupérables gratuitement.</summary></entry><entry><title type="html">Riot va modifier l’anti-cheat ‘trop invasif’ de Valorant</title><link href="/valorant-anti-cheat-system-modifications/" rel="alternate" type="text/html" title="Riot va modifier l'anti-cheat 'trop invasif' de Valorant" /><published>2020-04-28T00:00:00+02:00</published><updated>2020-04-28T00:00:00+02:00</updated><id>/valorant-anti-cheat-system-modifications</id><content type="html" xml:base="/valorant-anti-cheat-system-modifications/">&lt;p&gt;Depuis sa release, l’anti-cheat de Valorant a été à l’origine de nombreuses controverses… Mais Riot Games va le rendre un peu moins «invasif».&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/valorant2.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/valorant2.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/valorant2.jpg&quot; alt=&quot;Riot va modifier l'anti-cheat 'trop invasif' de Valorant&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&quot;lanti-cheat-tourne-247-sur-votre-pc&quot;&gt;L’anti-cheat tourne 24/7 sur votre PC&lt;/h1&gt;
-&lt;p&gt;En effet, ce programme continue de fonctionner même lorsque vous ne jouez pas au jeu. Après de nombreuses critiques, Riot a publié une mise à jour qui permet aux joueurs de contourner la mesure anti-triche 24/7.&lt;/p&gt;
-
-&lt;h1 id=&quot;changements-à-venir&quot;&gt;Changements à venir&lt;/h1&gt;
-
-&lt;p&gt;La prochaine fois que vous lancerez Valorant, l’anti-cheat Vanguard apparaîtra avec une icône dans votre barre des tâches. Grâce à cette icône, vous pourrez désormais fermer le programme plus facilement qu’auparavant.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/valorant3.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/valorant3.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/valorant3.jpg&quot; alt=&quot;Riot va modifier l'anti-cheat 'trop invasif' de Valorant&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Un simple clic droit sur l’icône vous permettra de désactiver Vanguard. Les joueurs auront également la possibilité de désinstaller Vanguard à chaque fois qu’ils ferment le jeu. À la réouverture de Valorant, le système anti-triche sera automatiquement réinstallé.&lt;/p&gt;</content><author><name>edgar</name></author><category term="valorant" /><category term="update" /><summary type="html">Depuis sa release, l’anti-cheat de Valorant a été à l’origine de nombreuses controverses… Mais Riot Games va le rendre un peu moins «invasif».</summary></entry><entry><title type="html">Minecraft 1.16: Mise à jour snapshot 20w17a</title><link href="/minecraft-snapshot-20w17/" rel="alternate" type="text/html" title="Minecraft 1.16: Mise à jour snapshot 20w17a" /><published>2020-04-27T00:00:00+02:00</published><updated>2020-04-27T00:00:00+02:00</updated><id>/minecraft-snapshot-20w17</id><content type="html" xml:base="/minecraft-snapshot-20w17/">&lt;p&gt;Voici la douzième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w17a. Dès maintenant téléchargeable depuis votre launcher.&lt;/p&gt;
-
-&lt;h1 id=&quot;nouveau-contenu&quot;&gt;Nouveau contenu&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ajout d’une option d’échelle de distance entre les entités allant de 50 % à 500 %.&lt;/li&gt;
-  &lt;li&gt;Les difficultés et les règles du jeu peuvent désormais être modifiées à partir de l’écran « Créer un monde ».&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;modifications&quot;&gt;Modifications&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Amélioration de l’interface de la table de forgeron&lt;/li&gt;
-  &lt;li&gt;Les portails en ruine apparaissent désormais moins fréquemment&lt;/li&gt;
-  &lt;li&gt;Nouveau nom pour la « Soul Fire Torch » et « Soul Fire Lantern » en « Soul Torch » et « Soul Lantern ».&lt;/li&gt;
-  &lt;li&gt;Le butin du bastion a été modifié&lt;/li&gt;
-  &lt;li&gt;Les murs créent désormais des postes sous plus de choses, comme des plaques de pression et des bannières&lt;/li&gt;
-  &lt;li&gt;Le bouton « Jeu solo » permet de passer directement à l’écran « Créer un monde » s’il n’y a pas de monde à sélectionner&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;# Télécharger
- Pour jouer sur cette snapshot avec vos amis, &lt;a href=&quot;https://launcher.mojang.com/v1/objects/0b7e36b084577fb26148c6341d590ac14606db21/server.jar&quot;&gt;téléchargez la version serveur&lt;/a&gt;.&lt;/p&gt;</content><author><name>edgar</name></author><category term="minecraft" /><category term="release" /><category term="update" /><summary type="html">Voici la douzième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w17a. Dès maintenant téléchargeable depuis votre launcher.</summary></entry><entry><title type="html">Deals: Les jeux et DLCs récupérables gratuitement ce 24 Avril</title><link href="/jeux-gratuits-24-avril/" rel="alternate" type="text/html" title="Deals: Les jeux et DLCs récupérables gratuitement ce 24 Avril" /><published>2020-04-24T00:00:00+02:00</published><updated>2020-04-24T00:00:00+02:00</updated><id>/jeux-gratuits-24-avril</id><content type="html" xml:base="/jeux-gratuits-24-avril/">&lt;p&gt;Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.&lt;/p&gt;
-
-&lt;h1 id=&quot;jeux-temporairement-gratuits-à-récupérer&quot;&gt;Jeux temporairement gratuits à récupérer&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.epicgames.com/store/fr/product/for-the-king/home&quot;&gt;For the king&lt;/a&gt;, distribué par Epic Games et récupérable gratuitement &lt;a href=&quot;https://www.epicgames.com/store/fr/product/for-the-king/home&quot;&gt;par ici&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://ansimuz.itch.io/elliot-quest&quot;&gt;Eliot Quest&lt;/a&gt;, un jeu indépendant publié sur Itch.io ! &lt;a href=&quot;https://ansimuz.itch.io/elliot-quest&quot;&gt;Gratuit par ici&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe class=&quot;embed-youtube&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/cGxFuZFiIeM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/fr-fr/p/arochecky/9n3m3pmsfc4x?activetab=pivot:overviewtab&quot;&gt;Arochecky&lt;/a&gt;, un jeu de Dames &lt;a href=&quot;https://www.microsoft.com/fr-fr/p/arochecky/9n3m3pmsfc4x?activetab=pivot:overviewtab&quot;&gt;gratuit temporairement&lt;/a&gt; disponible sur le store de Microsoft.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;giveaways&quot;&gt;Giveaways&lt;/h1&gt;
-
-&lt;p&gt;Cette semaine, Flitch News organise son propre giveaway: &lt;a href=&quot;https://giv.gg/FzhZqf&quot;&gt;trois clés Subnautica à gagner&lt;/a&gt;. Foncez !&lt;/p&gt;
-
-&lt;iframe class=&quot;embed-youtube&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/Rz2SNm8VguE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;h1 id=&quot;jouable-gratuitement-pour-une-durée-limitée&quot;&gt;Jouable gratuitement pour une durée limitée&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ubisoft propose le jeu &lt;a href=&quot;https://freeweekend.ubisoft.com/monopoly/fr-FR&quot;&gt;Monopoly&lt;/a&gt; en accès gratuit jusqu’au 29 Avril.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://store.steampowered.com/app/268500/XCOM_2/&quot;&gt;XCOM 2&lt;/a&gt; est également jouable gratuitement. Profitez-en vite !&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Si vous désirez plus de jeux gratuits, consulter l’&lt;a href=&quot;https://flitch.news/jeux-gratuits-jour-1/&quot;&gt;article de la semaine dernière&lt;/a&gt;.&lt;/p&gt;</content><author><name>edgar</name></author><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.</summary></entry><entry><title type="html">Leak: Code source de CS:GO et TF2 sur internet</title><link href="/cs-go-team-fortress-source-code-leaked/" rel="alternate" type="text/html" title="Leak: Code source de CS:GO et TF2 sur internet" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/cs-go-team-fortress-source-code-leaked</id><content type="html" xml:base="/cs-go-team-fortress-source-code-leaked/">&lt;p&gt;Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !&lt;/p&gt;
-
-&lt;h1 id=&quot;quest-ce-que-cela-implique-&quot;&gt;Qu’est-ce que cela implique ?&lt;/h1&gt;
-
-&lt;p&gt;Cela peut potentiellement impliquer le début de la fin pour CS:GO tel que nous le connaissons ! Ou du moins, jusqu’à ce que Valve ne passe à “Source 2” le nouveau moteur de jeu pour Counter Strike.&lt;/p&gt;
-
-&lt;h1 id=&quot;pourquoi-est-ce-si-mauvais-&quot;&gt;Pourquoi est-ce si mauvais ?&lt;/h1&gt;
-
-&lt;p&gt;La réponse est simple: La fuite du code source fournira aux pirates et aux hackeurs beaucoup plus d’informations sur le moteur du jeu, leur permettant ainsi de créer beaucoup plus facilement de nouvelles manières de tricher.&lt;/p&gt;
-
-&lt;p&gt;Attendez-vous à voir de plus en plus de tricheurs dans les semaines à venir, car les hackeurs sont très susceptibles d’exploiter cette vulnérabilité !&lt;/p&gt;</content><author><name>edgar</name></author><category term="valve" /><category term="steam" /><category term="csgo" /><category term="malaise" /><summary type="html">Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !</summary></entry><entry><title type="html">Giveaway: 3x Subnautica sur Epic Store</title><link href="/subnautica-free-giveaway-1/" rel="alternate" type="text/html" title="Giveaway: 3x Subnautica sur Epic Store" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/subnautica-free-giveaway-1</id><content type="html" xml:base="/subnautica-free-giveaway-1/">&lt;p&gt;Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.&lt;/p&gt;
-
-&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;https://giv.gg/FzhZqf&quot;&gt;&lt;h1&gt;Participer sur Givelab&lt;/h1&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;des-giveaways-chaque-semaine&quot;&gt;Des giveaways chaque semaine&lt;/h1&gt;
-
-&lt;p&gt;Sur Flitch, on aime les jeux gratuits ! C’est pourquoi nous organisons des giveaways chaque semaine. Bonne chance !&lt;/p&gt;
-
-&lt;h1 id=&quot;subnautica-cest-quoi-&quot;&gt;Subnautica, c’est quoi ?&lt;/h1&gt;
-
-&lt;p&gt;Subnautica est un jeu vidéo de survie développé et distribué par Unknown Worlds. Descendez dans les profondeurs d’un monde sous-marin étranger plein de merveilles et périls. Concevez des équipements, pilotez des sous-marins, terraformez un terrain voxel, et adaptez-vous à la vie sauvage afin d’explorer le monde, tout en essayant de survivre.&lt;/p&gt;</content><author><name>edgar</name></author><category term="featured" /><category term="subnautica" /><summary type="html">Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.</summary></entry><entry><title type="html">Animal Crossing: Découvrez la mise à jour du 23 avril</title><link href="/animal-crossing-new-horizon-update-23/" rel="alternate" type="text/html" title="Animal Crossing: Découvrez la mise à jour du 23 avril" /><published>2020-04-22T00:00:00+02:00</published><updated>2020-04-22T00:00:00+02:00</updated><id>/animal-crossing-new-horizon-update-23</id><content type="html" xml:base="/animal-crossing-new-horizon-update-23/">&lt;p&gt;Animal Crossing New Horizon recevra une mise à jour ce 23 avril ! Qu’allons-nous avoir de nouveau ? Voici le résumé:&lt;/p&gt;
-
-&lt;h1 id=&quot;nouveau-contenu&quot;&gt;Nouveau contenu:&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Racine débarque sur la place: Avec les traditionnels buissons ainsi que des graines de fleurs.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;le retour de Rounard ! Avec son tout nouveau rounarama: un bateau sur lequel il vendra ses œuvres clandestinement…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Une galerie d’art dans le musée.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;prochains-évènements&quot;&gt;Prochains évènements:&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Les journées de la nature, du 23 avril au 4 mai, qui donneront accès à de nouvelles quêtes Nook miles.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Du 1er au 7 mai, ce sera “L’escapade du premier mai”, qui consistera à nous emmener sur une île mystère…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Les journées internationales des musées, du 18 au 31 mai, avec un rallye tampons !&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;La saison des mariages, durant tout le mois de juin, un évènement dont le but serait d’organiser le mariage parfait pour Serge et Risette sur photopia !&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>edgar</name></author><category term="animal crossing" /><category term="release" /><summary type="html">Animal Crossing New Horizon recevra une mise à jour ce 23 avril ! Qu’allons-nous avoir de nouveau ? Voici le résumé:</summary></entry><entry><title type="html">Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients</title><link href="/geforce-now-gratuit-clients-founders/" rel="alternate" type="text/html" title="Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients" /><published>2020-04-22T00:00:00+02:00</published><updated>2020-04-22T00:00:00+02:00</updated><id>/geforce-now-gratuit-clients-founders</id><content type="html" xml:base="/geforce-now-gratuit-clients-founders/">&lt;p&gt;Geforce Now est un service de Cloud Gaming orienté client: Depuis le début, il refuse de payer les éditeurs avides d’argent (tels que Rockstar ou Blizzard), pour ainsi pouvoir proposer de petits prix: 5 Euros/mois pendant 1 an, avec 3 mois gratuits.&lt;/p&gt;
-
-&lt;h1 id=&quot;1-mois-gratuit-en-plus-&quot;&gt;1 mois gratuit en plus !&lt;/h1&gt;
-
-&lt;p&gt;Dès aujourd’hui, tous les utilisateurs de Geforce Now reçoivent un mois gratuit supplémentaire ! Ils commenceront donc à payer leur facture un mois plus tard. Cela fera donc quatre mois qu’ils profitent d’un service de cloud gaming sans débourser le moindre euro.&lt;/p&gt;
-
-&lt;p&gt;Voici le mail que vous avez dû recevoir:&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/webp/geforcenow3.webp&quot; type=&quot;image/webp&quot; /&gt;
-        &lt;source srcset=&quot;https://img1.flitch.news/jpg/geforcenow3.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
-        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/geforcenow3.jpg&quot; alt=&quot;Geforce Now: 1 mois gratuit supplémentaire pour tous ses clients&quot; /&gt;
-    &lt;/picture&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Merci Nvidia !&lt;/p&gt;</content><author><name>edgar</name></author><category term="GeforceNow" /><category term="Nvidia" /><category term="gratuit" /><summary type="html">Geforce Now est un service de Cloud Gaming orienté client: Depuis le début, il refuse de payer les éditeurs avides d’argent (tels que Rockstar ou Blizzard), pour ainsi pouvoir proposer de petits prix: 5 Euros/mois pendant 1 an, avec 3 mois gratuits.</summary></entry></feed>
+  </feed>
