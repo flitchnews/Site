@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-29T20:46:27+02:00</updated><id>/feed.xml</id><title type="html">Flitch News</title><subtitle>Actus &amp; perles cachées du web</subtitle><entry><title type="html">Minecraft 1.16: Mise à jour snapshot 20w18a</title><link href="/minecraft-snapshot-20w18a/" rel="alternate" type="text/html" title="Minecraft 1.16: Mise à jour snapshot 20w18a" /><published>2020-04-29T00:00:00+02:00</published><updated>2020-04-29T00:00:00+02:00</updated><id>/minecraft-snapshot-20w18a</id><content type="html" xml:base="/minecraft-snapshot-20w18a/">&lt;p&gt;Voici la treizième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w18a. Dès maintenant téléchargeable depuis votre launcher.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-30T16:49:57+02:00</updated><id>/feed.xml</id><title type="html">Flitch News</title><subtitle>Actus &amp; perles cachées du web</subtitle><entry><title type="html">Deep Rock Galactic: Release le 13 mai &amp;amp; skins gratuits</title><link href="/deep-rock-galactic-release-13-mai/" rel="alternate" type="text/html" title="Deep Rock Galactic: Release le 13 mai &amp; skins gratuits" /><published>2020-04-30T00:00:00+02:00</published><updated>2020-04-30T00:00:00+02:00</updated><id>/deep-rock-galactic-release-13-mai</id><content type="html" xml:base="/deep-rock-galactic-release-13-mai/">&lt;p&gt;Le 13 mai, dans deux semaines, nous pourrons célébrer le lancement de la 1.0 de Deep Rock Galactic !&lt;/p&gt;
+
+&lt;iframe class=&quot;embed-youtube&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/wd0YDB8X6vk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;h1 id=&quot;la-10-disponible-dès-maintenant-en-beta&quot;&gt;La 1.0 disponible dès maintenant en Beta&lt;/h1&gt;
+
+&lt;p&gt;Dès maaintenant, la version 1.0 est accessible depuis l’experimental branch. Elle comprend les 14 nouvelles pistes musicales, 3 nouveaux rangs de promotion, ainsi qu’une longue liste de corrections de bugs et pas mal d’optimisations. Vous pouvez y accéder &lt;a href=&quot;https://steamcommunity.com/linkfilter/?url=https://steamcommunity.com/app/548430/discussions/9/2271447149929590050/&quot;&gt;en cliquant par ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;giveaways-des-chapeaux-saisonniers&quot;&gt;Giveaways des chapeaux saisonniers&lt;/h1&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;picture&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/webp/drg3.webp&quot; type=&quot;image/webp&quot; /&gt;
+        &lt;source srcset=&quot;https://img1.flitch.news/jpg/drg3.jpg&quot; type=&quot;image/jpeg&quot; /&gt;
+        &lt;img class=&quot;article-image&quot; src=&quot;https://img1.flitch.news/jpg/drg3.jpg&quot; alt=&quot;Deep Rock Galactic: Release le 13 mai &amp;amp; skins gratuits&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Dans la version Live de Steam (la Màj 29), un cadeau spécial a été activé pour tous:&lt;/p&gt;
+
+&lt;p&gt;Au cours de ces 2 ans d’accès anticipé, certains chapeaux sont sortis en quantité limitée. Dès d’aujourd’hui et jusqu’au 12 mai, vous pouvez les réclamer TOUS en un seul clic. Allez les réclamer !&lt;/p&gt;</content><author><name>edgar</name></author><category term="deep rock galactic" /><category term="release" /><category term="update" /><summary type="html">Le 13 mai, dans deux semaines, nous pourrons célébrer le lancement de la 1.0 de Deep Rock Galactic !</summary></entry><entry><title type="html">Minecraft 1.16: Mise à jour snapshot 20w18a</title><link href="/minecraft-snapshot-20w18a/" rel="alternate" type="text/html" title="Minecraft 1.16: Mise à jour snapshot 20w18a" /><published>2020-04-29T00:00:00+02:00</published><updated>2020-04-29T00:00:00+02:00</updated><id>/minecraft-snapshot-20w18a</id><content type="html" xml:base="/minecraft-snapshot-20w18a/">&lt;p&gt;Voici la treizième mise à jour préparant la 1.16 de Minecraft: la snapshot 20w18a. Dès maintenant téléchargeable depuis votre launcher.&lt;/p&gt;
 
 &lt;h1 id=&quot;nouveau-contenu&quot;&gt;Nouveau contenu&lt;/h1&gt;
 &lt;p&gt;L’état de bloc, le rendu et le comportement de la Redstone sont plus en accord les uns avec les autres. La redstone fournira de l’énergie aux blocs de tous les côtés avec lesquels il possède une connexion visuelle, et ne le fera pas des côtés sans connexion visuelle.&lt;/p&gt;
@@ -142,17 +163,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Si vous désirez plus de jeux gratuits, consulter l’&lt;a href=&quot;https://flitch.news/jeux-gratuits-jour-1/&quot;&gt;article de la semaine dernière&lt;/a&gt;.&lt;/p&gt;</content><author><name>edgar</name></author><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.</summary></entry><entry><title type="html">Giveaway: 3x Subnautica sur Epic Store</title><link href="/subnautica-free-giveaway-1/" rel="alternate" type="text/html" title="Giveaway: 3x Subnautica sur Epic Store" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/subnautica-free-giveaway-1</id><content type="html" xml:base="/subnautica-free-giveaway-1/">&lt;p&gt;Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.&lt;/p&gt;
-
-&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;https://giv.gg/FzhZqf&quot;&gt;&lt;h1&gt;Participer sur Givelab&lt;/h1&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;des-giveaways-chaque-semaine&quot;&gt;Des giveaways chaque semaine&lt;/h1&gt;
-
-&lt;p&gt;Sur Flitch, on aime les jeux gratuits ! C’est pourquoi nous organisons des giveaways chaque semaine. Bonne chance !&lt;/p&gt;
-
-&lt;h1 id=&quot;subnautica-cest-quoi-&quot;&gt;Subnautica, c’est quoi ?&lt;/h1&gt;
-
-&lt;p&gt;Subnautica est un jeu vidéo de survie développé et distribué par Unknown Worlds. Descendez dans les profondeurs d’un monde sous-marin étranger plein de merveilles et périls. Concevez des équipements, pilotez des sous-marins, terraformez un terrain voxel, et adaptez-vous à la vie sauvage afin d’explorer le monde, tout en essayant de survivre.&lt;/p&gt;</content><author><name>edgar</name></author><category term="featured" /><category term="subnautica" /><summary type="html">Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.</summary></entry><entry><title type="html">Leak: Code source de CS:GO et TF2 sur internet</title><link href="/cs-go-team-fortress-source-code-leaked/" rel="alternate" type="text/html" title="Leak: Code source de CS:GO et TF2 sur internet" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/cs-go-team-fortress-source-code-leaked</id><content type="html" xml:base="/cs-go-team-fortress-source-code-leaked/">&lt;p&gt;Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !&lt;/p&gt;
+&lt;p&gt;Si vous désirez plus de jeux gratuits, consulter l’&lt;a href=&quot;https://flitch.news/jeux-gratuits-jour-1/&quot;&gt;article de la semaine dernière&lt;/a&gt;.&lt;/p&gt;</content><author><name>edgar</name></author><category term="gratuit" /><category term="deal" /><summary type="html">Sur Flitch News, découvrez chaque jour la liste des jeux et DLCs récupérables gratuitement.</summary></entry><entry><title type="html">Leak: Code source de CS:GO et TF2 sur internet</title><link href="/cs-go-team-fortress-source-code-leaked/" rel="alternate" type="text/html" title="Leak: Code source de CS:GO et TF2 sur internet" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/cs-go-team-fortress-source-code-leaked</id><content type="html" xml:base="/cs-go-team-fortress-source-code-leaked/">&lt;p&gt;Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !&lt;/p&gt;
 
 &lt;h1 id=&quot;quest-ce-que-cela-implique-&quot;&gt;Qu’est-ce que cela implique ?&lt;/h1&gt;
 
@@ -162,7 +173,17 @@
 
 &lt;p&gt;La réponse est simple: La fuite du code source fournira aux pirates et aux hackeurs beaucoup plus d’informations sur le moteur du jeu, leur permettant ainsi de créer beaucoup plus facilement de nouvelles manières de tricher.&lt;/p&gt;
 
-&lt;p&gt;Attendez-vous à voir de plus en plus de tricheurs dans les semaines à venir, car les hackeurs sont très susceptibles d’exploiter cette vulnérabilité !&lt;/p&gt;</content><author><name>edgar</name></author><category term="valve" /><category term="steam" /><category term="csgo" /><category term="malaise" /><summary type="html">Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !</summary></entry><entry><title type="html">Animal Crossing: Découvrez la mise à jour du 23 avril</title><link href="/animal-crossing-new-horizon-update-23/" rel="alternate" type="text/html" title="Animal Crossing: Découvrez la mise à jour du 23 avril" /><published>2020-04-22T00:00:00+02:00</published><updated>2020-04-22T00:00:00+02:00</updated><id>/animal-crossing-new-horizon-update-23</id><content type="html" xml:base="/animal-crossing-new-horizon-update-23/">&lt;p&gt;Animal Crossing New Horizon recevra une mise à jour ce 23 avril ! Qu’allons-nous avoir de nouveau ? Voici le résumé:&lt;/p&gt;
+&lt;p&gt;Attendez-vous à voir de plus en plus de tricheurs dans les semaines à venir, car les hackeurs sont très susceptibles d’exploiter cette vulnérabilité !&lt;/p&gt;</content><author><name>edgar</name></author><category term="valve" /><category term="steam" /><category term="csgo" /><category term="malaise" /><summary type="html">Mauvaise nouvelle pour les joueurs de Counter-Strike et Team Fortress: Les codes source 2017/18 pour les deux jeux ont été divulgués et publiés sur Internet. Chacun peut à présent les télécharger !</summary></entry><entry><title type="html">Giveaway: 3x Subnautica sur Epic Store</title><link href="/subnautica-free-giveaway-1/" rel="alternate" type="text/html" title="Giveaway: 3x Subnautica sur Epic Store" /><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><id>/subnautica-free-giveaway-1</id><content type="html" xml:base="/subnautica-free-giveaway-1/">&lt;p&gt;Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;https://giv.gg/FzhZqf&quot;&gt;&lt;h1&gt;Participer sur Givelab&lt;/h1&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;des-giveaways-chaque-semaine&quot;&gt;Des giveaways chaque semaine&lt;/h1&gt;
+
+&lt;p&gt;Sur Flitch, on aime les jeux gratuits ! C’est pourquoi nous organisons des giveaways chaque semaine. Bonne chance !&lt;/p&gt;
+
+&lt;h1 id=&quot;subnautica-cest-quoi-&quot;&gt;Subnautica, c’est quoi ?&lt;/h1&gt;
+
+&lt;p&gt;Subnautica est un jeu vidéo de survie développé et distribué par Unknown Worlds. Descendez dans les profondeurs d’un monde sous-marin étranger plein de merveilles et périls. Concevez des équipements, pilotez des sous-marins, terraformez un terrain voxel, et adaptez-vous à la vie sauvage afin d’explorer le monde, tout en essayant de survivre.&lt;/p&gt;</content><author><name>edgar</name></author><category term="featured" /><category term="subnautica" /><summary type="html">Nous offrons 3x clés Subnautica sur Epic Games ! Pour participer, cliquez simplement sur le lien ci-dessous. Les gagnants seront annoncé le 01/05/2020.</summary></entry><entry><title type="html">Animal Crossing: Découvrez la mise à jour du 23 avril</title><link href="/animal-crossing-new-horizon-update-23/" rel="alternate" type="text/html" title="Animal Crossing: Découvrez la mise à jour du 23 avril" /><published>2020-04-22T00:00:00+02:00</published><updated>2020-04-22T00:00:00+02:00</updated><id>/animal-crossing-new-horizon-update-23</id><content type="html" xml:base="/animal-crossing-new-horizon-update-23/">&lt;p&gt;Animal Crossing New Horizon recevra une mise à jour ce 23 avril ! Qu’allons-nous avoir de nouveau ? Voici le résumé:&lt;/p&gt;
 
 &lt;h1 id=&quot;nouveau-contenu&quot;&gt;Nouveau contenu:&lt;/h1&gt;
 
@@ -209,16 +230,4 @@
     &lt;/picture&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Merci Nvidia !&lt;/p&gt;</content><author><name>edgar</name></author><category term="GeforceNow" /><category term="Nvidia" /><category term="gratuit" /><summary type="html">Geforce Now est un service de Cloud Gaming orienté client: Depuis le début, il refuse de payer les éditeurs avides d’argent (tels que Rockstar ou Blizzard), pour ainsi pouvoir proposer de petits prix: 5 Euros/mois pendant 1 an, avec 3 mois gratuits.</summary></entry><entry><title type="html">Far Cry &amp;amp; Assassin’s Creed disponibles sur Geforce Now</title><link href="/far-cry-assasins-creed-geforce-now/" rel="alternate" type="text/html" title="Far Cry &amp; Assassin's Creed disponibles sur Geforce Now" /><published>2020-04-21T00:00:00+02:00</published><updated>2020-04-21T00:00:00+02:00</updated><id>/far-cry-assasins-creed-geforce-now</id><content type="html" xml:base="/far-cry-assasins-creed-geforce-now/">&lt;p&gt;Ubisoft et Nvidia se rapprochent de plus en plus, permettant dès aujourd’hui aux titres suivants d’être jouable sur la plateforme de cloud-gaming Geforce Now:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Assassin’s Creed Rogue (Uplay &amp;amp; Steam)&lt;/li&gt;
-  &lt;li&gt;Assassin’s Creed: Revelations (Steam)&lt;/li&gt;
-  &lt;li&gt;Assassin’s Creed II Deluxe Edition (Steam)&lt;/li&gt;
-  &lt;li&gt;Assassin’s Creed: Director’s Cut Edition (Uplay &amp;amp; Steam)&lt;/li&gt;
-  &lt;li&gt;Far Cry (Uplay &amp;amp; Steam)&lt;/li&gt;
-  &lt;li&gt;Far Cry 2: Fortune’s Edition (Uplay &amp;amp; Steam)&lt;/li&gt;
-  &lt;li&gt;Far Cry 3 (Uplay &amp;amp; Steam)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Vous ne connaissez pas encore Geforce Now ? Passez donc par &lt;a href=&quot;https://www.nvidia.com/en-eu/geforce-now/&quot;&gt;leur site internet&lt;/a&gt; !&lt;/p&gt;</content><author><name>edgar</name></author><category term="GeforceNow" /><category term="nvidia" /><category term="librairie" /><summary type="html">Ubisoft et Nvidia se rapprochent de plus en plus, permettant dès aujourd’hui aux titres suivants d’être jouable sur la plateforme de cloud-gaming Geforce Now:</summary></entry></feed>
+&lt;p&gt;Merci Nvidia !&lt;/p&gt;</content><author><name>edgar</name></author><category term="GeforceNow" /><category term="Nvidia" /><category term="gratuit" /><summary type="html">Geforce Now est un service de Cloud Gaming orienté client: Depuis le début, il refuse de payer les éditeurs avides d’argent (tels que Rockstar ou Blizzard), pour ainsi pouvoir proposer de petits prix: 5 Euros/mois pendant 1 an, avec 3 mois gratuits.</summary></entry></feed>
