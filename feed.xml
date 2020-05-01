@@ -4,8 +4,8 @@
 
       <title>Flitch News</title>
       <description>Actus &amp; perles cachées du web</description>
-      <link></link>
-      <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+      <link>https://flitch.news</link>
+      <atom:link href="https://flitch.news/feed.xml" rel="self" type="application/rss+xml" />
 
       
       
